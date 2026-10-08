@@ -1,0 +1,23 @@
+# 凭据与本地产物，绝不入库
+cookie.txt
+pick_state.json
+cookie*.db
+*.log
+
+__pycache__/
+*.py[cod]
+
+# 题目工作目录（本机运行 flow.py 时生成）
+att/
+q/
+*.zip
+*.7z
+*.rar
+*.png
+*.mrb
+*.apk
+*.exe
+*.so
+*.dll
+*.pcap
+*.pcapng
