@@ -7,6 +7,7 @@ cookie*.db
 __pycache__/
 *.py[cod]
 
+<<<<<<< HEAD
 # 题目工作目录（flow.py / pick.py 生成）
 att/
 q/
@@ -16,3 +17,19 @@ q/
 *.png *.jpg *.jpeg *.bmp *.gif
 *.mrb *.apk *.exe *.so *.dll *.elf
 *.pcap *.pcapng *.bin *.dat
+=======
+# 题目工作目录（本机运行 flow.py 时生成）
+att/
+q/
+*.zip
+*.7z
+*.rar
+*.png
+*.mrb
+*.apk
+*.exe
+*.so
+*.dll
+*.pcap
+*.pcapng
+>>>>>>> origin/main
