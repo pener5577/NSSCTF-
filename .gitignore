@@ -1,0 +1,18 @@
+# 凭据与本地产物，绝不入库
+cookie.txt
+pick_state.json
+cookie*.db
+*.log
+
+__pycache__/
+*.py[cod]
+
+# 题目工作目录（flow.py / pick.py 生成）
+att/
+q/
+
+# 附件与二进制
+*.zip *.7z *.rar *.tar *.gz
+*.png *.jpg *.jpeg *.bmp *.gif
+*.mrb *.apk *.exe *.so *.dll *.elf
+*.pcap *.pcapng *.bin *.dat
